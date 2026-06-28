@@ -6,7 +6,7 @@ The Superstore Sales Dashboard is an interactive Power BI solution developed to 
 
 ---
 
-## 📸 Dashboard Preview
+## 📸 Dashboard Snapshot
 
 ![Sales Dashboard](Sales_Dashboard.jpeg)
 
