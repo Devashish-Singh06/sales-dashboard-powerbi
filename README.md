@@ -194,4 +194,4 @@ Developed an end-to-end interactive sales analytics dashboard that enables organ
 
 
 
-Aspiring Data Analyst skilled in Excel, SQL, Power BI, and Data Visualization.
+
