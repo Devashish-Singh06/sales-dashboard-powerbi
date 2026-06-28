@@ -6,6 +6,12 @@ The Superstore Sales Dashboard is an interactive Power BI solution developed to 
 
 ---
 
+## 📸 Dashboard Preview
+
+![Sales Dashboard](Sales_Dashboard.jpeg)
+
+---
+
 ## 🎯 Objectives
 
 * Analyze overall sales and profit performance.
@@ -163,12 +169,6 @@ This dashboard helps business stakeholders to:
 * Analyze customer segments.
 * Track business growth over time.
 * Support data-driven decision-making.
-
----
-
-## 📸 Dashboard Preview
-
-![Sales Dashboard](Sales_Dashboard.jpeg)
 
 ---
 
